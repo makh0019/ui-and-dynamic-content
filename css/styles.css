@@ -1,0 +1,58 @@
+*{
+    box-sizing: border-box;
+}
+.wrapper {
+    max-width: 30rem;
+    margin: 0 auto;
+    border: 0.2rem solid #617C7F;
+    padding: 2rem;  
+}
+img {
+    width: 100%;
+    height: auto;
+}
+h1 {
+    text-align: center;
+    font-family: "arial", sans-serif;
+}
+section button {
+    background-color: #617C7F;
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 1rem;
+    border: 0.2rem solid;
+    margin: 0 auto;
+    width: 100%;   
+}
+footer p {
+    text-align: center;
+    font-size: 1.5rem;
+}
+.smicon{
+    width: 200px;
+    margin: 0 auto;
+}
+.smicon li {
+    list-style-type: none;
+    display: inline-block;
+    font-size: 2rem;
+    padding: 1rem;  
+}
+.smicon li a {
+    color: #617C7F;
+    text-align: center;
+}
+
+.test li {
+    background-color: white;
+    list-style-type: none;
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 1rem;
+    border: 0.2rem solid #617C7F;
+    width: 100%;
+    margin: 1rem auto 0 auto;
+}
+.test{
+    padding: 0;
+}
